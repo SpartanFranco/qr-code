@@ -19,13 +19,9 @@ body{
     background-color:white ;
     min-width: 20rem;
     max-width: 20rem;
-   display: flex;
-   justify-content:center;
-   align-items:center;
-   flex-direction: column;
-border-radius: 1.2rem;
-padding: 1rem;
-text-align: center;
+    border-radius: 1.2rem;
+    padding: 1rem;
+    text-align: center;
 }
 img{
     width: 100%;
@@ -36,8 +32,6 @@ img{
     font-weight: 800;
     margin-top:1.3rem;
     color:hsl(218, 44%, 22%);
-   
-  
 }
 .text{
     color: hsl(216, 15%, 48%);

@@ -33,19 +33,19 @@ img{
 }
 .title{
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 800;
     margin-top:1.3rem;
     color:hsl(218, 44%, 22%);
-    width: 90%;
+   
   
 }
 .text{
     color: hsl(216, 15%, 48%);
     font-size: 15px;
-   width: 90%;
    margin-top: 1rem;
    margin-bottom: 1.5rem;
    font-weight: 400;
+   
 }
 
 

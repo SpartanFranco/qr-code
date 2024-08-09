@@ -29,7 +29,7 @@ text-align: center;
 }
 img{
     width: 100%;
-    border-radius: 1rem;
+    border-radius: .8rem;
 }
 .title{
     font-size: 20px;
@@ -41,11 +41,10 @@ img{
 }
 .text{
     color: hsl(216, 15%, 48%);
-    width: 70%;
     font-size: 15px;
-   width: 100%;
+   width: 90%;
    margin-top: 1rem;
-   margin-bottom: 1rem;
+   margin-bottom: 1.5rem;
    font-weight: 400;
 }
 
